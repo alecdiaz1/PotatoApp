@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Potato App</string>
+    <string name="action_settings">Settings</string>
+    <array name="my_potatoes">
+        <item>Potato 1</item>
+        <item>Potato 2</item>
+        <item>Potato 3</item>
+        <item>Potato 4</item>
+    </array>
+</resources>
